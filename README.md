@@ -54,7 +54,7 @@
 
 <a href="https://www.linkedin.com/in/reaver72/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-reaver72-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:reaver72@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-reaver72@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:rawbeen72@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-reaver72@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ![](https://komarev.com/ghpvc/?username=reaver72&label=Visitors+Count&color=brightgreen)
 
