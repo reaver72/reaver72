@@ -5,7 +5,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🙂 &nbsp; Exploring new technologies and learning to build reliable and scalable softwares.
-- 💼 &nbsp; Looking for internship or job position to get real world experience.
 - 🌱 &nbsp; Learning more about Microservices, Systems Design and Backend Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
